@@ -1,0 +1,4 @@
+(install
+ (files bash-wrap)
+ (section bin)
+ (package bash-wrap))
